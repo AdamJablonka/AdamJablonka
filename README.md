@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamJablonka
-- 👀 I’m interested in the boundaries that computer science can achieve
-- 🌱 I’m currently learning Data Structures, Java, JavaScript...
+- 👀 I’m interested in game development and design
+- 🌱 I’m currently learning Data Structures, C#, JavaScript...
 
 <!---
 AdamJablonka/AdamJablonka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
