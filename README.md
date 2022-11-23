@@ -4,4 +4,4 @@ I’m interested in web development/engineering. An intuitive and interactive we
 
 Currently, I am an amateur React developer thats working towards a Bachelors in Computer Science.
 
-Working on learning Express JS, Redux, Common Lisp, and SQL. I am always working on honing my skills in JavaScript, and trying to improve my Python.
+Working on learning Express JS, Redux, Common Lisp, and C#. I am always working on honing my skills in JavaScript, and trying to improve my Python.
