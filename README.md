@@ -1,6 +1,6 @@
 Hello, I’m @AdamJablonka
 
-I’m interested in web development/software engineering. An intuitive and interactive webpage is a positive experience for everyone.
+I’m interested in web development/software engineering.I believe an intuitive and interactive webpage is a positive experience for everyone.
 
 Currently, I am an amateur React developer thats working towards a Bachelors in Computer Science.
 
