@@ -1,4 +1,4 @@
-Hello, I’m @AdamJablonka
+# Hello! 👋
 
 I’m interested in web development/software engineering. 
 
