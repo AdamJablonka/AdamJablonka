@@ -30,4 +30,4 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="40" height="40" />
   </a>
-</p> ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamjablonka&show_icons=true&theme=transparent)
+</p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
