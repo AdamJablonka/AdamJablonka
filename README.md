@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam Jablonka</h1>
-<img align="center" alt="Coding-banner" width="1200" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)">
-<p> - I am currently a Computer Science student with a passion for web and app development. Currently working on scalabe applications to be finished as useful product. </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
+<p align="center"> I am a passionate Computer Science student with a focus on developing scalable web and app applications. Currently, I am actively working on creating innovative products that can make a real difference in people's lives. Through my projects, I strive to push the boundaries of what's possible and create solutions that are not only functional but also aesthetically pleasing. I'm excited to continue growing as a developer and making a positive impact in the world through technology. </p>
+<h3 align="center">Languages and Frameworks:</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -30,4 +30,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="40" height="40" />
   </a>
-</p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</p> 
+
+  ![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamjablonka&count_private=true)
