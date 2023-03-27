@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Jablonka</h1>
 <img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
-<p align="center"> I am a passionate Computer Science student with a focus on developing scalable web and app applications. Currently, I am actively working on creating innovative products that can make a real difference in people's lives. Through my projects, I strive to push the boundaries of what's possible and create solutions that are not only functional but also aesthetically pleasing. I'm excited to continue growing as a developer and making a positive impact in the world through technology. </p>
+<p align="center"> I am a passionate Computer Science student with a focus on developing scalable web applications. Currently, I am actively working on creating innovative products that can make a real difference in people's lives. Through my projects, I strive to push the boundaries of what's possible and create solutions that are not only functional but also aesthetically pleasing. I'm excited to continue growing as a developer and making a positive impact in the world through technology. </p>
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
